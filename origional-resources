@@ -1,0 +1,7 @@
+Examples from:  
+
+https://github.com/aws-samples/aws-glue-samples
+
+https://github.com/aws-samples/aws-etl-orchestrator/blob/master/cloudformation/glue-resources.yaml
+
+https://github.com/aws-samples/provision-codepipeline-glue-workflows/blob/main/cloudformation/glue-workflow-stack.yml
