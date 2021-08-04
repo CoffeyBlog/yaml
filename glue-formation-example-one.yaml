@@ -1,3 +1,10 @@
+Credit to:
+https://github.com/aws-samples/provision-codepipeline-glue-workflows/blob/main/cloudformation/glue-workflow-stack.yml
+
+
+** Cloned for editing ** 
+
+
 AWSTemplateFormatVersion: '2010-09-09'
 Description: Using AWS CloudFormation to model and provision AWS Glue Workflows
 
