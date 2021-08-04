@@ -1,0 +1,26 @@
+
+Notes:  
+
+a resource output (database) can/is often another resoutces input.   
+
+Step fuctions are often used to create the "workflow" of a Cloud formation  
+
+Verify events to ensure all resources have been created 
+
+
+
+
+
+
+
+When working with RDS you will need: ...
+
+RDSUserName	...
+
+RDSPassword	...
+
+RDSDatabaseName	...
+
+RDSPORT	...
+
+RDSEndPoint ...
